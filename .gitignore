@@ -1,0 +1,84 @@
+# ============================================
+# Build artifacts
+# ============================================
+build/
+cmake-build-*/
+*.so
+*.dylib
+*.dll
+*.pyd
+*.o
+*.a
+*.lib
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+.eggs/
+*.whl
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================================
+# IDE / Editor
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.cproject
+.settings/
+*.sublime-*
+
+# ============================================
+# OS generated
+# ============================================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================================
+# Model weights & data
+# ============================================
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+models/
+lora_adapters/
+
+# ============================================
+# Logs & temp files
+# ============================================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# ============================================
+# Colab / Drive
+# ============================================
+.colab/
+drive/
