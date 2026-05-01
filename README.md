@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Autonomous+AI+Agent+for+Code+Security+%26+Performance;Custom+C%2B%2B+Vector+DB+%7C+Fine-Tuned+Llama-3+%7C+AVX2+SIMD;Detect.+Patch.+Verify.+Push.+Autonomously.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Autonomous+AI+Agent+for+Code+Security+%26+Performance;Custom+C%2B%2B+Vector+DB+%7C+Fine-Tuned+Llama-3+%7C+AVX2+SIMD;)](https://git.io/typing-svg)
 
 <br/>
 
